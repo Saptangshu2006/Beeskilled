@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Learning React",
+    "category": "React"
+  },
+  {
+    "id": 2,
+    "title": "HTML Basics",
+    "category": "HTML"
+  },
+  {
+    "id": 3,
+    "title": "CSS Flexbox",
+    "category": "CSS"
+  }
+]
